@@ -1,4 +1,4 @@
-# Business_Reviews
+# Reviews & Sentiment Analysis
 
 This analysis looks at business reviews from 40 themepark businesses. 
 It details how the data is extracted and manipulated to answer a question.
